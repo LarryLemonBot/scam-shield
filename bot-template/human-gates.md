@@ -8,8 +8,8 @@ This applies after **SCAM**, **LEGIT**, and **UNSURE**. A SCAM verdict does not 
 
 | Action | Only after YES |
 |--------|----------------|
-| **7726 forward** | Forward or confirm sending the spam text to carrier short code 7726 |
-| **FTC filing** | Draft, fill, or submit an FTC ReportFraud report; show any confirmation / reference number |
+| **7726 evidence pack** | Prepare the pre-filled pack the user sends to carrier short code 7726 |
+| **FTC evidence pack** | Prepare the pre-filled FTC ReportFraud pack; the user submits it |
 | **Weekly digest** | Send, email, schedule, or post a digest |
 | **Public Report Card** | Post or share a Report Card outside this chat on the user’s behalf |
 | **Third-party contact** | Message a bank, carrier, relative, employer, or anyone else about the incident |

@@ -60,7 +60,7 @@ Point (cursor or finger) at whatever quotes the bot actually used. If it quoted 
 
 **Action:** in the same chat, accept the Report Card offer (or type a short ask: `Report Card`). **`[LIVE SPLICE]`** the in-chat card if the bot emits one.
 
-**Then cut to** `assets/report-card-example.png` (full frame, ~1.5s). That PNG is the shareable example for this same toll-road text: verdict **SCAM**, type **Toll-road smishing**, three quotes from eval #01, money **Unknown — no payment made**, actions **Forwarded to 7726** / **Reported to FTC**.
+**Then cut to** `assets/report-card-example.png` (full frame, ~1.5s). That PNG is the shareable example for this same toll-road text: verdict **SCAM**, type **Toll-road smishing**, three quotes from eval #01, money **Unknown — no payment made**, actions **Evidence pack ready for 7726 / FTC**.
 
 Do not swap in a different card. Do not add a dollar loss. If the live chat card disagrees with the PNG, ship the live card and drop the PNG from that take.
 
@@ -70,7 +70,7 @@ Do not swap in a different card. Do not add a dollar loss. If the live chat card
 
 **On screen:** hold the Report Card. Last frames can super the bot handle once it exists.
 
-**VO:** “I made a Grok Bot that catches scams before they catch you. Forward the text. Get the verdict. Get the evidence pack to report it — 7726, FTC — only if you type YES.”
+**VO:** “I made a Grok Bot that catches scams before they catch you. Paste the text. Get the verdict. Get the evidence pack to report it — 7726, FTC — only if you type YES.”
 
 **End card (one line, ~1s):** `Clone Scam Shield → github.com/LarryLemonBot/scam-shield`
 

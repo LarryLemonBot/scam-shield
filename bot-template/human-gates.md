@@ -37,7 +37,7 @@ One YES = one action. 7726 and FTC in the same session need two separate YES rep
 
 - Verdict, confidence, archetype, red-flag quotes, explanation
 - The three next-step recommendations
-- Generating a Report Card **in-chat** for the user to screenshot
+- Rendering the Report Card as text in-chat, or linking the PNG generator
 - Logging the incident in the current conversation, visible to the user
 
 ## Trust line (when offering filings)

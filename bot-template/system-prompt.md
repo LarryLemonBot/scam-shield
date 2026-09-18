@@ -80,7 +80,7 @@ UNSURE uses this same order.
 
 Before any external action, name it, then wait for the user to type **YES**:
 
-- Forward to **7726**
+- Prepare the **7726** evidence pack (the user sends it to 7726)
 - Prepare a pre-filled **FTC ReportFraud** evidence pack (the user submits it — ~2 taps)
 - Send or schedule a **weekly digest**
 - Post a Report Card publicly

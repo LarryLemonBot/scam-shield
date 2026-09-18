@@ -2,7 +2,7 @@
 
 > I made a Grok Bot that catches scams before they catch you.
 
-Forward any sketchy text, email, or DM. Scam Shield returns an instant verdict — **scam / legit / unsure** — with the red flags explained in plain English. Then it **closes the loop**: with your explicit OK, it files the FTC and carrier (7726) spam reports, logs the hit, and can send a weekly digest of what's targeting you.
+Forward any sketchy text, email, or DM. Scam Shield returns an instant verdict — **scam / legit / unsure** — with the red flags explained in plain English. Then it **closes the loop**: with your explicit OK, it prepares an evidence pack for FTC and carrier (7726) spam reports, logs the hit, and can send a weekly digest of what's targeting you.
 
 ## How it works
 
@@ -14,7 +14,7 @@ Forward any sketchy text, email, or DM. Scam Shield returns an instant verdict �
 
 ## Why it exists
 
-Americans lost a record **$15.9B to scams in 2025** (FTC) — up 25% year-over-year. Imposter scams are the most-reported fraud. The #1 contact method is the **text message**. Nobody owns the "forward me the sketchy text → verdict → file the reports" loop. Scam Shield does.
+Scam losses keep climbing year over year. Imposter scams are among the most-reported frauds, and the **text message** is the #1 contact method. Nobody owns the "forward me the sketchy text → verdict → report it" loop. Scam Shield does.
 
 ## Contest entry
 

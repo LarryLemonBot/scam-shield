@@ -184,7 +184,7 @@ def render() -> None:
     # Actions taken
     round_rect(draw, (540, y, panel_x2, y + 196), 22, SURFACE)
     y_in = section_label(draw, 572, y + 22, "Actions taken")
-    actions = ["Forwarded to 7726", "Reported to FTC"]
+    actions = ["Evidence pack ready for 7726", "Evidence pack ready for FTC"]
     ay = y_in + 10
     for action in actions:
         draw.ellipse((572, ay + 8, 592, ay + 28), fill=RED)

@@ -27,8 +27,8 @@ Shareable, screenshot-ready summary. Generate only when the user asks or accepts
 │  Unknown — no payment made               │
 ├──────────────────────────────────────────┤
 │  ACTIONS TAKEN                           │
-│  • Forwarded to 7726                     │
-│  • Reported to FTC                       │
+│  • Evidence pack ready for 7726          │
+│  • Evidence pack ready for FTC           │
 │  (or: Verdict only — no filings yet)     │
 ├──────────────────────────────────────────┤
 │  checked by Scam Shield                  │
@@ -63,7 +63,7 @@ Chat cards also print `Confidence: NN%` under the verdict. The shareable image b
 3. "DMV Enforcement Division"
 
 **Money at risk:** Unknown — no payment made
-**Actions taken:** Forwarded to 7726 · Reported to FTC
+**Actions taken:** Evidence pack ready for 7726 · Evidence pack ready for FTC
 
 _checked by Scam Shield_
 github.com/LarryLemonBot/scam-shield

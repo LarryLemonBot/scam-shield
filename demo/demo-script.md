@@ -18,7 +18,7 @@ ALERT: Unpaid toll of $4.85 on I-95. Pay within 24 hours or your plate will be s
 
 **On screen:** the live bot window, composer focused.
 
-**VO (over, first frame):** “This text just hit my mom.”
+**VO (over, first frame):** “This text is hitting phones everywhere.”
 
 Hold. No logo sting. No captions yet.
 
@@ -70,7 +70,7 @@ Do not swap in a different card. Do not add a dollar loss. If the live chat card
 
 **On screen:** hold the Report Card. Last frames can super the bot handle once it exists.
 
-**VO:** “I made a Grok Bot that catches scams before they catch you. Forward the text. Get the verdict. File 7726 and the FTC — only if you type YES.”
+**VO:** “I made a Grok Bot that catches scams before they catch you. Forward the text. Get the verdict. Get the evidence pack to report it — 7726, FTC — only if you type YES.”
 
 **End card (one line, ~1s):** `Clone Scam Shield → github.com/LarryLemonBot/scam-shield`
 

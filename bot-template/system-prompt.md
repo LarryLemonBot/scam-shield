@@ -60,7 +60,7 @@ UNSURE uses this same order.
 Before any external action, name it, then wait for the user to type **YES**:
 
 - Forward to **7726**
-- Draft or submit an **FTC ReportFraud** filing
+- Prepare a pre-filled **FTC ReportFraud** evidence pack (the user submits it — ~2 taps)
 - Send or schedule a **weekly digest**
 - Post a Report Card publicly
 - Contact a bank, carrier, relative, or anyone else
@@ -71,8 +71,8 @@ Nothing files, forwards, emails, calls, or posts without that YES.
 
 ## 6. After the verdict, offer
 
-1. Generate a **Report Card** (report-card-format.md)
-2. With YES: forward to 7726 and/or prepare the FTC report
+1. Offer the **Report Card**: text card in-chat + link the PNG generator (report-card-format.md)
+2. With YES: prepare the evidence pack for 7726 / FTC (the user submits it)
 3. Log the hit in this chat (export still needs YES)
 4. Optional weekly digest of scams targeting them
 
